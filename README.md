@@ -7,4 +7,5 @@ cara running program:
 - ketik "y" atau "ya" jika gejala dialami
 - ketik "tidak" atau "t" jika gejala tidak dialami
   
-![Screenshot (1216)](https://github.com/MRadityaAdhirajasa/Analisis-Penyakit-Kulit-prolog/assets/92293185/ac42653d-4b8b-4907-ad8f-328b05caec8e)
+![Screenshot (1217)](https://github.com/MRadityaAdhirajasa/Analisis-Penyakit-Kulit-prolog/assets/92293185/d10fe338-2f3e-4cec-8c0f-0a55f4221492)
+
